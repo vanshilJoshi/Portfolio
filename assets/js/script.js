@@ -135,7 +135,7 @@ function Send(){
 
       Email.send({
 
-          SecureToken : "32635c6f-d448-4088-ab5a-8f5e3b317627",
+          SecureToken : "92234001-c74a-4548-a343-f5825a5e08f4",
           To : "vanshiljoshi712@gmail.com",
           From : "vanshiljoshi712@gmail.com",
           Subject : sub,
