@@ -39,5 +39,5 @@ This portfolio was developed by [Vanshil Joshi].
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Portfolio Link
-https://vanshiljoshi.github.io/myPortfolio/
+https://vanshiljoshi.github.io/Portfolio/
 
