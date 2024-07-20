@@ -1,11 +1,11 @@
 # Portfolio - Vanshil
 
 ## Description
-This portfolio is a beautiful, fully functional, and responsive website developed using HTML, CSS, and JavaScript. It incorporates various features including SMTP.js for email functionality, SweetAlert for interactive alerts, and a small Google Maps integration to showcase the location. The portfolio includes sections such as About, Testimonials, Clients, Resume, Portfolio, and Contact.
+This portfolio is a beautiful, fully functional, and responsive website developed using HTML, CSS, and JavaScript. It incorporates various features including Web3 Forms for email functionality, SweetAlert for interactive alerts, and a small Google Maps integration to showcase the location. The portfolio includes sections such as About, Testimonials, Clients, Resume, Portfolio, and Contact.
 
 ## Features
 - Responsive design for all screen resolutions
-- Email functionality using SMTP.js
+- Email functionality using Web3 Forms
 - Interactive alerts using SweetAlert
 - Google Maps integration to display the location
 - Sections:
@@ -20,7 +20,7 @@ This portfolio is a beautiful, fully functional, and responsive website develope
 - HTML
 - CSS
 - JavaScript
-- SMTP.js
+- Web3 Forms
 - SweetAlert
 - Google Maps API
 
